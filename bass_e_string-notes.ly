@@ -8,6 +8,16 @@
   \clef "bass"
 
   r1
+  r1
+  r1
+  r1
+  r1
+  r1
+  r1
+  r1
+  r1
+  r1
+  r1
   e1 
   f1
   fis2
@@ -47,6 +57,7 @@
   fis2
   ges2
   g1
+  
 }
 
   \layout {}
